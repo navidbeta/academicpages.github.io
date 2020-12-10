@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  name             : "Navid Ghassemi"
+  avatar           : "prof.jpg"
+  bio              : #"Your biography for the left-hand sidebar"
   location         : "Mashhad, Iran"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=-e5EP0MAAAAJ&hl=en"
   email            : "thenavidbeta@gmail.com"
-  researchgate     :  "https://www.researchgate.net/profile/Navid_Ghassemi"
+  researchgate     : "https://www.researchgate.net/profile/Navid_Ghassemi"
   uri              :
   bitbucket        :
   codepen          :
@@ -99,11 +99,11 @@ author:
   github           : "navidbeta"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "navidbeta"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-6537-0438"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
